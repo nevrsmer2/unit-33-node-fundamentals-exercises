@@ -1,0 +1,14 @@
+{
+  "name": "33.5_jest_node_testing_markov_exercise",
+  "version": "1.0.0",
+  "description": "33.5_Jest_Node_Testing_Markov_Exercise",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.6"
+  }
+}
